@@ -1,4 +1,4 @@
-# Micro-IT-task1
+# Simple Calculator Micro-IT-task1
 
 import tkinter as tk
 def click(button_text):
