@@ -1,7 +1,6 @@
 # Micro-IT-task1
 
 import tkinter as tk
-
 def click(button_text):
     current = str(entry.get())
     entry.delete(0, tk.END)
